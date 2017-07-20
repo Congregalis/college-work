@@ -45,6 +45,6 @@ This is the work when i was in my first year in my college. The work is to creat
 扩展功能不做要求，只做加分处理。<br>
 
 ----------
-扩展功能中的加密及标签暂未完成。<br>
-撤销功能中有当标签变动时部分撤销无法完成的bug。<br>
+* 扩展功能中的加密及标签暂未完成。<br>
+* 撤销功能中有当标签变动时部分撤销无法完成的bug。<br>
 
